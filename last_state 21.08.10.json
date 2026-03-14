@@ -1,0 +1,17 @@
+{
+  "Google": {
+    "status": "slow",
+    "code": 200,
+    "time": 1.41
+  },
+  "GitHub": {
+    "status": "up",
+    "code": 200,
+    "time": 0.74
+  },
+  "BadSite": {
+    "status": "critical",
+    "code": 0,
+    "time": 0
+  }
+}

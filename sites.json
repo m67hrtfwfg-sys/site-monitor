@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Google",
+    "url": "https://google.com",
+    "timeout": 5
+  },
+  {
+    "name": "MySite",
+    "url": "https://example.com",
+    "timeout": 5
+  }
+]

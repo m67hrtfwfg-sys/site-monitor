@@ -1,0 +1,19 @@
+
+--- 2026-01-23 22:35:35.586635 ---
+Google | slow | code=200 | time=1.67s
+GitHub | up | code=200 | time=0.73s
+BadSite | critical | code=0 | time=0s
+
+--- 2026-01-23 22:36:28.498346 ---
+Google | slow | code=200 | time=1.57s
+GitHub | up | code=200 | time=0.74s
+BadSite | critical | code=0 | time=0s
+
+--- 2026-01-23 22:37:22.438192 ---
+Google | slow | code=200 | time=1.45s
+GitHub | up | code=200 | time=0.77s
+BadSite | critical | code=0 | time=0s
+
+--- 2026-01-23 22:46:10.407893 ---
+Google | slow | code=200 | time=1.68s
+MySite | up | code=200 | time=0.29s

@@ -1,0 +1,72 @@
+2026-03-06 08:15:06,925 | ERROR | GitHub failed: Cannot connect to host github.com:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:15:06,925 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:15:06,925 | ERROR | Google failed: Cannot connect to host google.com:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:15:06,925 | INFO | Google | critical | code=0 | time=0s
+2026-03-06 08:16:57,296 | ERROR | GitHub failed: Cannot connect to host github.com:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:16:57,297 | ERROR | Google failed: Cannot connect to host google.com:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:16:57,297 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:16:57,297 | INFO | Google | critical | code=0 | time=0s
+2026-03-06 08:19:55,468 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:19:56,149 | INFO | Google | up | code=200 | time=0.74s
+2026-03-06 08:19:56,520 | INFO | GitHub | up | code=200 | time=0.38s
+2026-03-06 08:19:56,645 | INFO | BadSite | critical | code=0 | time=0s
+2026-03-06 08:21:23,875 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:21:24,504 | INFO | Google | up | code=200 | time=0.63s
+2026-03-06 08:21:24,504 | INFO | GitHub | up | code=200 | time=0.36s
+2026-03-06 08:21:24,504 | INFO | BadSite | critical | code=0 | time=0s
+2026-03-06 08:22:24,513 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:22:25,231 | INFO | Google | up | code=200 | time=0.72s
+2026-03-06 08:22:25,232 | INFO | GitHub | up | code=200 | time=0.39s
+2026-03-06 08:22:25,232 | INFO | BadSite | critical | code=0 | time=0s
+2026-03-06 08:23:25,240 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:23:25,863 | INFO | Google | up | code=200 | time=0.63s
+2026-03-06 08:23:25,863 | INFO | GitHub | up | code=200 | time=0.4s
+2026-03-06 08:23:25,863 | INFO | BadSite | critical | code=0 | time=0s
+2026-03-06 08:26:02,865 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:26:03,566 | INFO | Google | up | code=200 | time=0.7s
+2026-03-06 08:26:03,567 | INFO | GitHub | up | code=200 | time=0.47s
+2026-03-06 08:26:03,567 | INFO | BadSite | critical | code=0 | time=0s
+2026-03-06 08:27:03,576 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:27:04,229 | INFO | Google | up | code=200 | time=0.66s
+2026-03-06 08:27:04,229 | INFO | GitHub | up | code=200 | time=0.37s
+2026-03-06 08:27:04,229 | INFO | BadSite | critical | code=0 | time=0s
+2026-03-06 08:28:04,237 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:28:04,912 | INFO | Google | up | code=200 | time=0.68s
+2026-03-06 08:28:04,912 | INFO | GitHub | up | code=200 | time=0.38s
+2026-03-06 08:28:04,912 | INFO | BadSite | critical | code=0 | time=0s
+2026-03-06 08:29:04,923 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:29:05,711 | INFO | Google | up | code=200 | time=0.79s
+2026-03-06 08:29:05,711 | INFO | GitHub | up | code=200 | time=0.48s
+2026-03-06 08:29:05,712 | INFO | BadSite | critical | code=0 | time=0s
+2026-03-06 08:30:05,721 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:30:06,347 | INFO | Google | up | code=200 | time=0.63s
+2026-03-06 08:30:06,347 | INFO | GitHub | up | code=200 | time=0.4s
+2026-03-06 08:30:06,347 | INFO | BadSite | critical | code=0 | time=0s
+2026-03-06 08:31:06,357 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:31:06,992 | INFO | Google | up | code=200 | time=0.64s
+2026-03-06 08:31:06,992 | INFO | GitHub | up | code=200 | time=0.48s
+2026-03-06 08:31:06,992 | INFO | BadSite | critical | code=0 | time=0s
+2026-03-06 08:32:07,001 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:32:07,676 | INFO | Google | up | code=200 | time=0.68s
+2026-03-06 08:32:07,676 | INFO | GitHub | up | code=200 | time=0.36s
+2026-03-06 08:32:07,677 | INFO | BadSite | critical | code=0 | time=0s
+2026-03-06 08:33:07,684 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:33:08,467 | INFO | Google | up | code=200 | time=0.79s
+2026-03-06 08:33:08,467 | INFO | GitHub | up | code=200 | time=0.5s
+2026-03-06 08:33:08,467 | INFO | BadSite | critical | code=0 | time=0s
+2026-03-06 08:34:08,476 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:34:09,282 | INFO | Google | up | code=200 | time=0.81s
+2026-03-06 08:34:09,282 | INFO | GitHub | up | code=200 | time=0.49s
+2026-03-06 08:34:09,282 | INFO | BadSite | critical | code=0 | time=0s
+2026-03-06 08:35:09,298 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:35:09,965 | INFO | Google | up | code=200 | time=0.67s
+2026-03-06 08:35:09,966 | INFO | GitHub | up | code=200 | time=0.42s
+2026-03-06 08:35:09,966 | INFO | BadSite | critical | code=0 | time=0s
+2026-03-06 08:36:09,977 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:36:10,637 | INFO | Google | up | code=200 | time=0.67s
+2026-03-06 08:36:10,638 | INFO | GitHub | up | code=200 | time=0.43s
+2026-03-06 08:36:10,638 | INFO | BadSite | critical | code=0 | time=0s
+2026-03-06 08:37:10,647 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-06 08:37:11,348 | INFO | Google | up | code=200 | time=0.7s
+2026-03-06 08:37:11,348 | INFO | GitHub | up | code=200 | time=0.41s
+2026-03-06 08:37:11,348 | INFO | BadSite | critical | code=0 | time=0s

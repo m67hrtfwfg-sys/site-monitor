@@ -1,0 +1,20 @@
+2026-03-01 21:19:28,201 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-01 21:19:28,389 | ERROR | Google failed: Cannot connect to host google.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')]
+2026-03-01 21:19:28,412 | ERROR | GitHub failed: Cannot connect to host github.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')]
+2026-03-01 21:19:28,412 | INFO | Google | critical | code=0 | time=0s
+2026-03-01 21:22:17,416 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-01 21:22:17,629 | ERROR | Google failed: Cannot connect to host google.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')]
+2026-03-01 21:22:17,685 | ERROR | GitHub failed: Cannot connect to host github.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')]
+2026-03-01 21:22:17,685 | INFO | Google | critical | code=0 | time=0s
+2026-03-01 21:27:46,007 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-01 21:27:48,430 | INFO | Google | slow | code=200 | time=2.43s
+2026-03-01 21:27:48,431 | INFO | GitHub | up | code=200 | time=0.43s
+2026-03-01 21:27:48,431 | INFO | BadSite | critical | code=0 | time=0s
+2026-03-01 21:28:48,435 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-01 21:28:50,381 | INFO | Google | slow | code=200 | time=1.95s
+2026-03-01 21:28:50,381 | INFO | GitHub | up | code=200 | time=0.37s
+2026-03-01 21:28:50,382 | INFO | BadSite | critical | code=0 | time=0s
+2026-03-01 21:29:50,390 | ERROR | BadSite failed: Cannot connect to host example.invalid:443 ssl:default [nodename nor servname provided, or not known]
+2026-03-01 21:29:52,116 | INFO | Google | slow | code=200 | time=1.73s
+2026-03-01 21:29:52,116 | INFO | GitHub | up | code=200 | time=0.37s
+2026-03-01 21:29:52,116 | INFO | BadSite | critical | code=0 | time=0s
